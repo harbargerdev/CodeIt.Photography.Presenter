@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeIt.Photography.Presenter.WebAPI", "CodeIt.Photography.Presenter.WebAPI\CodeIt.Photography.Presenter.WebAPI.csproj", "{3C5CDB34-4955-4FF9-892C-EB8D5D253139}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeIt.Photography.Present.Library", "..\CodeIt.Photography.Present.Library\CodeIt.Photography.Present.Library.csproj", "{B7506D4A-9C25-4164-8D86-58E637B9EB72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3C5CDB34-4955-4FF9-892C-EB8D5D253139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C5CDB34-4955-4FF9-892C-EB8D5D253139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C5CDB34-4955-4FF9-892C-EB8D5D253139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7506D4A-9C25-4164-8D86-58E637B9EB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7506D4A-9C25-4164-8D86-58E637B9EB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7506D4A-9C25-4164-8D86-58E637B9EB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7506D4A-9C25-4164-8D86-58E637B9EB72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
