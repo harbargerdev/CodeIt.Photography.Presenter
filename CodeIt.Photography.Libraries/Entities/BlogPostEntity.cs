@@ -5,7 +5,7 @@ using System.Text;
 namespace CodeIt.Photography.Libraries.Entities
 {
     [Serializable]
-    public class PostEntity
+    public class BlogPostEntity
     {
         #region Properties
 
