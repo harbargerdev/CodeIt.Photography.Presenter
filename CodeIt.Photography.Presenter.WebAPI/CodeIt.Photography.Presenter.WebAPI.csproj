@@ -14,8 +14,4 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\CodeIt.Photography.Present.Library\CodeIt.Photography.Present.Library.csproj" />
-  </ItemGroup>
-
 </Project>
