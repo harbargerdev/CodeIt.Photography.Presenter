@@ -10,6 +10,7 @@ namespace CodeIt.Photography.Presenter.WebAPI.Models
     [Serializable]
     public class ErrorModel
     {
-
+        public string Message { get; set; }
+        public Exception ParentException { get; set; }
     }
 }
